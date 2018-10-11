@@ -1,0 +1,80 @@
+[2017-05-03 13:15:11,298] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:15:11,298] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:15:11,298] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.data_manager'
+[2017-05-03 13:15:11,299] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:15:11,299] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:15:11,299] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:15:11,299] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.db_manager'
+[2017-05-03 13:15:11,300] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:15:11,300] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:15:11,300] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:15:11,301] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.strategy_manager'
+[2017-05-03 13:15:11,301] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:15:11,301] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:15:11,302] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:15:11,302] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.strategy_simulator'
+[2017-05-03 13:15:11,302] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:15:11,303] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:15:11,303] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:15:11,303] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.trader'
+[2017-05-03 13:15:11,303] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:15:11,304] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:15:11,304] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:15:11,304] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.ai'
+[2017-05-03 13:15:11,304] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:16:28,770] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.data_manager'
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.db_manager'
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:16:28,771] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.strategy_manager'
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.strategy_simulator'
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:16:28,772] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.trader'
+[2017-05-03 13:16:28,773] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:16:28,773] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:16:28,773] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:16:28,773] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.ai'
+[2017-05-03 13:16:28,773] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:26:40,645] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:26:40,646] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:26:40,646] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.data_manager'
+[2017-05-03 13:26:40,646] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:26:40,647] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:26:40,647] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:26:40,648] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.db_manager'
+[2017-05-03 13:26:40,648] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:26:40,648] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:26:40,649] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:26:40,649] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.strategy_manager'
+[2017-05-03 13:26:40,649] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:26:40,650] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:26:40,650] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:26:40,650] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.strategy_simulator'
+[2017-05-03 13:26:40,650] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:26:40,651] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:26:40,651] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:26:40,652] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.trader'
+[2017-05-03 13:26:40,652] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:26:40,653] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:26:40,653] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:26:40,653] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.ai'
+[2017-05-03 13:26:40,653] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:48:38,345] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:48:38,347] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:48:38,347] mod [ERROR] mod_helper.py LINE 18:  No module named 'mod.sample'
+[2017-05-03 13:48:38,348] mod [ERROR] mod_helper.py LINE 19:  **********
+[2017-05-03 13:48:59,848] mod [ERROR] mod_helper.py LINE 16:  **********
+[2017-05-03 13:48:59,848] mod [ERROR] mod_helper.py LINE 17:  Mod Import Error: 
+[2017-05-03 13:48:59,849] mod [ERROR] mod_helper.py LINE 18:  No module named 'sys_mod_sample'
+[2017-05-03 13:48:59,849] mod [ERROR] mod_helper.py LINE 19:  **********
